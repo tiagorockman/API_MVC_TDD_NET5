@@ -4,7 +4,7 @@
 # CONFIGURANDO O SWAGGER
 ** Botão direto no projeto Selecionar Propriedades
 ** Clicar em BUILD ou COMPILAR
-** Ativar a opção de Arquivo de Documentação XML.
+** Ativar/Marcar a opção de Arquivo de Documentação XML (XML documentation file).
 ** Salvar
 ** Em Depurar mudar o inciar Navegador para swagger
 ** Salvar
